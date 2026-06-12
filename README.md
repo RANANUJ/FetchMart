@@ -93,18 +93,6 @@ flutter pub get
 flutter run
 ```
 
-## APK Build
-
-```bash
-flutter build apk --release
-```
-
-The release APK will be generated at:
-
-```text
-build/app/outputs/flutter-apk/app-release.apk
-```
-
 ## Assignment Parts
 
 - Part 1 Flutter app: implemented inside `lib/`
