@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Background circle -->
+  <circle cx="512" cy="512" r="512" fill="#0F766E"/>
+  <!-- Shopping bag body -->
+  <path d="M320 380h384l48 420c0 0 8 80-80 80H352c-88 0-80-80-80-80l48-420z" fill="white" stroke="#0D5E57" stroke-width="8"/>
+  <!-- Bag handle left -->
+  <path d="M400 380c0-40 20-120 112-120s112 80 112 120" fill="none" stroke="white" stroke-width="24" stroke-linecap="round"/>
+  <!-- Bag handle left outline -->
+  <path d="M400 380c0-40 20-120 112-120s112 80 112 120" fill="none" stroke="#0D5E57" stroke-width="8" stroke-linecap="round"/>
+  <!-- Star on bag -->
+  <polygon points="512,470 530,520 585,520 540,555 555,605 512,575 469,605 484,555 439,520 494,520" fill="#FFB300"/>
+</svg>
