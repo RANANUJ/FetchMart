@@ -93,7 +93,19 @@ flutter pub get
 flutter run
 ```
 
-##  Assignment Parts
+## APK Build
+
+```bash
+flutter build apk --release
+```
+
+The release APK will be generated at:
+
+```text
+build/app/outputs/flutter-apk/app-release.apk
+```
+
+## Assignment Parts
 
 - Part 1 Flutter app: implemented inside `lib/`
 - Part 2 DSA answers: available inside `assignment_solutions/part_2_dsa/`
@@ -119,6 +131,9 @@ flutter run
         <strong>Cart</strong><br/>
         <img src="assets/screenshots/fetch_cart.jpeg" width="150" alt="Skills Screen"/>
       </td>
+    </tr>
+    <tr>
+       </td>
        <td align="center" width="25%">
         <strong>Filters</strong><br/>
         <img src="assets/screenshots/fetch_filter.jpeg" width="150" alt="Skills Screen"/>
