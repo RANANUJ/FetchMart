@@ -93,21 +93,7 @@ flutter pub get
 flutter run
 ```
 
-## APK Build
-
-```bash
-flutter build apk --release
-```
-
-The release APK will be generated at:
-
-```text
-build/app/outputs/flutter-apk/app-release.apk
-```
-
-You can upload this APK to the GitHub repository release section and share the release link with the interviewer.
-
-## Assignment Parts
+##  Assignment Parts
 
 - Part 1 Flutter app: implemented inside `lib/`
 - Part 2 DSA answers: available inside `assignment_solutions/part_2_dsa/`
@@ -116,12 +102,45 @@ You can upload this APK to the GitHub repository release section and share the r
 
 ## Screenshots
 
-After running the app, capture the catalog, filter sheet, detail screen, and wishlist screen. A suggested folder is:
+## 📱 App Screenshots
 
-```text
-screenshots/
-├── catalog.png
-├── filters.png
-├── detail.png
-└── wishlist.png
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <strong>Home Screen</strong><br/>
+        <img src="assets/screenshots/fetch_home.jpeg" width="150" alt="Home Screen"/>
+      </td>
+      <td align="center" width="25%">
+        <strong>Products</strong><br/>
+        <img src="assets/screenshots/fetch_product.jpeg" width="150" alt="Projects Screen"/>
+      </td>
+       <td align="center" width="25%">
+        <strong>Cart</strong><br/>
+        <img src="assets/screenshots/fetch_cart.jpeg" width="150" alt="Skills Screen"/>
+      </td>
+       <td align="center" width="25%">
+        <strong>Filters</strong><br/>
+        <img src="assets/screenshots/fetch_filter.jpeg" width="150" alt="Skills Screen"/>
+      </td>
+      <td align="center" width="25%">
+        <strong>Wishlist</strong><br/>
+        <img src="assets/screenshots/fetch_whishlist.jpeg" width="150" alt="Skills Screen"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 👨‍💻 Developed By
+
+Anuj Rana
+Flutter Developer | Full-Stack Developer
+
+Flutter
+API
+Clean Architecture
+Riverpod
+
+Thank you for reviewing this submission.
